@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+pandas
+numpy
+opencv-python
+matplotlib
+scikit-learn
+nltk
+rouge-score
+tqdm
+Pillow
